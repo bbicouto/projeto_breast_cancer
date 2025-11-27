@@ -136,7 +136,7 @@ Todas as métricas finais estão registradas em: `results/metrics_table.csv`
 
 A versão final do trabalho acadêmico em PDF encontra-se em:
 
-`report/Relatorio_Final.pdf`
+`report/Breast Cancer Wisconsin - Bianca Couto Araujo.pdf`
 
 ```
 ```
